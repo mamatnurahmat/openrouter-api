@@ -1,0 +1,21 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local dynamic storage
+ready_models.json
+
+# OS files
+.DS_Store
+
+# Virtual environments
+.idea/
+.vscode/
