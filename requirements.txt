@@ -2,3 +2,7 @@ fastapi
 uvicorn
 openai
 pydantic
+crewai
+langchain
+langchain-openai
+python-dotenv
